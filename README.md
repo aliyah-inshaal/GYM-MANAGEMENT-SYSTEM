@@ -1,6 +1,6 @@
 # GYM MANAGEMENT SYSTEM
 
-FUNCTIONALITIES:
+# FUNCTIONALITIES:
 
 •	Only Admin can access the system through username and password.
 
@@ -16,7 +16,7 @@ FUNCTIONALITIES:
 
 
 
-LANGUAGE AND TOOLS: 
+# LANGUAGE AND TOOLS: 
 
 •	Programming Language: Java
 
